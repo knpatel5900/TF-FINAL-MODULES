@@ -1,0 +1,7 @@
+.terraform
+terraform.tfvars
+terraform.tfstate
+.terraform.lock.hcl
+provicer.tf
+provider.tf
+.terraform.tfstate.lock.info
